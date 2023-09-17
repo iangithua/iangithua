@@ -11,7 +11,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2320232a.svg?logo=linkedin&logoColor=%2361DAFB)](https://linkedin.com/in/ian-githua) 
 [![Medium](https://img.shields.io/badge/Medium-%2320232a?logo=medium&logoColor=%2361DAFB)](https://medium.com/@iangithua) 
-[![Portfolio](https://img.shields.io/badge/website-%2320232a?logo=medium&logoColor=%2361DAFB)](https://medium.com/@iangithua) 
+[![Portfolio](https://img.shields.io/badge/website-%2320232a?logo=medium&logoColor=%2361DAFB)](https://imgithua.rf.gd) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%2320232a.svg?style=for-the-badge&logo=c-sharp&logoColor=%2361DAFB) 
