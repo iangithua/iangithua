@@ -1,11 +1,11 @@
 # 💫 About Me:
-😄 Pronouns: He/His<br>
-🔭 I’m currently building a smart parking solution.<br>
-🌱 I’m currently learning more about IoT and AI.<br>
-🤔 I’m looking for help with my DevOps Journey.<br>
-💬 Ask me about java or any tech-related stuff.<br>
-📫 How to reach me: Check the social links below.<br>
-⚡ Fun fact: Many owners of large tech companies loved video games as kids.
+😄 Pronouns: He/His </br>
+🔭 Presently, I'm in the process of developing a cutting-edge smart parking solution.</br>
+🌱 I'm actively expanding my knowledge in the realms of IoT and AI.</br>
+🤔 I'm on the lookout for assistance in my DevOps journey.</br>
+💬 Feel free to inquire about Java or any technology-related topics.</br>
+📫 You can connect with me through the social links provided below.</br>
+⚡ Fun Fact: It's fascinating how many leaders of major tech corporations were avid video game enthusiasts during their childhoods.
 
 
 ## 🌐 Socials:
